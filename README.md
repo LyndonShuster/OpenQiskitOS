@@ -12,12 +12,8 @@ OpenQiskitOS includes:
 ## 🚀 Quick Start
 
 1. Flash the ISO to a USB drive  
-2. Boot into the live environment  
-3. Open terminal and run:
-
-    ```bash
-    ./start_q.sh
-    ```
+2. Boot into the live environment (Default password:qiskit) 
+3. Wait for `start_q.sh` to auto run
 
 That’s it. JupyterLab will launch and you're ready to build quantum circuits.
 
