@@ -23,6 +23,9 @@ Want to try it yourself?
 📀 [Download ISO](https://archive.org/details/openqiskitos-v0.1.2)  
 💾 [Source on GitHub](https://github.com/LyndonShuster/OpenQiskitOS)
 
+User: openqiskit
+Password: qiskit
+
 ---
 
 ## 🚀 OpenQiskitOS Preview
