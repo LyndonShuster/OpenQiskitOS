@@ -17,9 +17,17 @@ OpenQiskitOS includes:
 
 That’s it. JupyterLab will launch and you're ready to build quantum circuits.
 
+---
+
+Want to try it yourself?  
+📀 [Download ISO](https://archive.org/details/openqiskitos-v0.1.2)  
+💾 [Source on GitHub](https://github.com/LyndonShuster/OpenQiskitOS)
+
+---
+
 ## 🚀 OpenQiskitOS Preview
 
-OpenQiskitOS is a bootable Linux ISO for learning and exploring quantum computing with Qiskit — no installation or cloud login required.
+OpenQiskitOS is a bootable Linux ISO for learning and exploring quantum computing with Qiskit — no installation or cloud login required, persistent login supported.
 
 ---
 
@@ -51,8 +59,4 @@ OpenQiskitOS is a bootable Linux ISO for learning and exploring quantum computin
 ### 🧪 QASM Input Support (for power users)
 ![QASM Block](screenshots/qasm_block_openqiskit.png)
 
----
 
-Want to try it yourself?  
-📀 [Download ISO](https://archive.org/details/openqiskitos-v0.1.2)  
-💾 [Source on GitHub](https://github.com/LyndonShuster/OpenQiskitOS)
