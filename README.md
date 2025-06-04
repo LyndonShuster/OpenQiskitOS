@@ -39,7 +39,7 @@ OpenQiskitOS is a bootable Linux ISO for learning and exploring quantum computin
 
 ---
 
-### 🔐 Login Screen
+### 🔐 Login Screen (Password: qiskit )
 ![Login](screenshots/login_openqiskit.png)
 
 ---
